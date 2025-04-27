@@ -19,7 +19,7 @@ This is a responsive recipe website project for the CSS Frameworks course assign
 - Basic JavaScript (for mobile menu toggle)
 
 ## Deployment
-Live site: 
+Live site: https://cssframework-resit.netlify.app/
 
 ## Author
 Created by Zico.
