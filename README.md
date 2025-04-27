@@ -33,6 +33,4 @@ Live Site: https://cssframework-resit.netlify.app/
 ## Author
 Created by Zico.
 
-testing
----
 Minor update for Pull Request.
